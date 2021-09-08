@@ -9,6 +9,7 @@
 		"LatvianModder"
 	],
 	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric",
 		"sources": "https://github.com/FTBTeam/FTB-Library",
 		"issues": "https://github.com/FTBTeam/FTB-Library/issues"
 	},
